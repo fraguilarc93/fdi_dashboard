@@ -83,6 +83,7 @@ setuptools==75.8.0
 shapely==2.0.7
 shiny==1.2.1
 shinylive==0.8.2
+shinywidgets==0.9.0
 six==1.17.0
 sniffio==1.3.1
 stack-data==0.6.3
