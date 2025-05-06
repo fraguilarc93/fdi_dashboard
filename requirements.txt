@@ -1,0 +1,11 @@
+Path
+pandas
+numpy
+seaborn
+matplotlib.pyplot
+matplotlib.ticker
+plotly.express
+plotly.graph_objects
+shiny 
+shinywidgets
+ipyleaflet
